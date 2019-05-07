@@ -1,0 +1,2 @@
+# AppEmergentes
+IA para libros
